@@ -1,7 +1,7 @@
 ![](https://images.velog.io/images/finelinefe/post/c7b9d8a6-be45-470e-930c-9c99fecb1a4c/agile.png)
 
 
-##애자일이란? (feat. The Agile Manifesto)
+## 애자일이란? (feat. The Agile Manifesto)
 공정과 도구보다 개인과 상호작용을,
 포괄적인 문서보다 작동하는 소프트웨어를,
 계약협상보다 고객과의 협력을,
