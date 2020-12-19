@@ -21,7 +21,7 @@ b'$2b$12$YFs9rh.1LgJwZuf9ibyjpuLvBoCaGX0MzedFWF2Jo0zU3lMZurZ4a'
 type(hashed_password)
 <class 'bytes'>
 ```
-그리고 암호화 된 문자를 얻을 수 있다 **(형식은 byte)**.
+그리고 암호화 된 문자를 얻을 수 있다 **(형식은 byte)**. 
 이 경우의 암호화 방식은 단방향 암호화 이므로 복호화가 불가능하다.
 
 > bcrypt.checkpw(입력받은 문자, 암호화 하여 저장된 문자) **// 반드시 둘다 byte여야 함**
