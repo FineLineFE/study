@@ -1,4 +1,4 @@
-### Git Flow
+## Git Flow
 
 ![](https://images.velog.io/images/finelinefe/post/17d0ef23-eba6-40ef-9d47-d4021ef8596a/git%20flow.png)
 
@@ -6,7 +6,7 @@
 
 <br />
 
-### 각 브랜치
+## 각 브랜치
 
 - **Master**  : 배포 브랜치, 기준이 되는 브랜치 중 하나.
 
@@ -20,7 +20,7 @@
 
 <br />
 
-### Fork
+## Fork
 
 ![](https://images.velog.io/images/finelinefe/post/a9dcf36c-f83b-4e60-b630-cab296b80f27/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-02%2023.23.20.png)
 
