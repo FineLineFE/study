@@ -1,7 +1,10 @@
+## HTTP Status Code
+
 > Http Status Code. Hyper Text Transfer Protocol 응답 상태를 알려주는 코드
 
+<br />
 
-### 종류
+## 종류
 
 - 200 (해당 요청 수행 성공)
 
