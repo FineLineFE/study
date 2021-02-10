@@ -27,7 +27,7 @@
 ### PATCH
 > PATCH [request-uri] HTTP/1.1 Host:[Hostname] or [IP] Content-Lenght:[Length in Bytes] Content-Type:[Content Type]
 
-요청 자원을 일부 수정. PUT은 전체 수정(UPDATE)인 반면 PATCH는 일부 수정
+요청 자원을 일부 수정. PUT은 전체 수정(UPDATE)인 반면 PATCH는 일부 수정의 개념이다
 
 <br />
 
