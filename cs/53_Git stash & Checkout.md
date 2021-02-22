@@ -10,7 +10,7 @@
 
 checkout 명령어를 사용했지만 기존 작업에서 변경된 부분이 있어 선 커밋을 하고 바꿀 수 있는 상태. 이때 임시로 stash 기능을 사용하면 된다.
 
-그 이후 dev로 checkout 하면 전환이 되고 이때 pull 받으면 된다.
+그 이후 dev로 checkout 하면 전환이 되고 이때 pull 받으면 된다.(git pull origin <브랜치이름>)
 
 - git stash
 - git checkout dev
